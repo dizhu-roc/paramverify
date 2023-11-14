@@ -1,5 +1,5 @@
 <?php
-namespace Paramverify;
+namespace DizhuRoc\Paramverify;
 
 class VerifyType
 {

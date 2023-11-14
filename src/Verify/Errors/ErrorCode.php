@@ -1,5 +1,5 @@
 <?php
-namespace Paramverify\Verify\Errors;
+namespace DizhuRoc\Paramverify\Verify\Errors;
 
 class ErrorCode
 {

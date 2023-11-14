@@ -1,5 +1,5 @@
 <?php
-namespace Paramverify\Verify\Rules;
+namespace DizhuRoc\Paramverify\Verify\Rules;
 
 abstract class VerifyBase
 {

@@ -1,8 +1,8 @@
 <?php
-namespace Paramverify\Verify;
+namespace DizhuRoc\Paramverify\Verify;
 
-use Paramverify\Verify\Errors\ErrorCode;
-use Paramverify\Verify\Exception\VerifyException;
+use DizhuRoc\Paramverify\Verify\Errors\ErrorCode;
+use DizhuRoc\Paramverify\Verify\Exception\VerifyException;
 
 class VerifyFactory
 {
