@@ -1,0 +1,17 @@
+{
+    "name": "dizhu-roc\/paramverify",
+    "description": "vfine-param-verify",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangyang",
+            "email": "zhy_159357@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DizhuRoc\\Paramverify\\": "src"
+        }
+    }
+}
